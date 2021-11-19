@@ -1,7 +1,9 @@
 .main-header {
   background-color: var(--cor-principal);
   padding: 20px;
-  box-shadow: -0.5px 6px 1px var(--cor-secundaria);
+  box-shadow: -0.5px 6px 1px var(--cor-realce);
+  z-index: 100;
+  margin-bottom: 6px;
 
 }
 
@@ -12,4 +14,16 @@
   font-size: 32px;
   color: #FFF;
   padding: 20px;
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }

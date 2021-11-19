@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&family=Roboto:wght@100;300;500;900&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -14,3 +16,7 @@
   --cor-realce: #FFBA08;
 }
 
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--cor-terciaria);
+}

@@ -1,0 +1,15 @@
+.main-header {
+  background-color: var(--cor-principal);
+  padding: 20px;
+  box-shadow: -0.5px 6px 1px var(--cor-secundaria);
+
+}
+
+.header-link {
+  text-decoration: none;
+  font-style: none;
+
+  font-size: 32px;
+  color: #FFF;
+  padding: 20px;
+}

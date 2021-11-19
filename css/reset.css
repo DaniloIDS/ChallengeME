@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --cor-principal: #1C3144;
+  --cor-secundaria: #A2AEBB;
+  --cor-terciaria: #3F88C5;
+  --cor-destaque: #D00000;
+  --cor-realce: #FFBA08;
+}
+

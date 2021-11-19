@@ -1,0 +1,6 @@
+.main-footer{
+  background-color: var(--cor-principal);
+  color: #FFF;
+  text-align: center;
+  box-shadow: -1px -6px 1px var(--cor-realce);
+}

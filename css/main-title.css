@@ -4,5 +4,13 @@
   font-family: "New Rocker";
   font-weight: normal;
   letter-spacing: 6px;
+  
 
+}
+
+.second {
+  background-color: var(--cor-destaque);
+  color: #FFF;
+  padding: 15px;
+  border-radius: 8px;
 }

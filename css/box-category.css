@@ -19,7 +19,7 @@ color: #FFF;
 transition-duration: 0.5s;
 
 text-shadow: 2px 4px 0px black;
-box-shadow: 3px 2px 4px 0px var(--cor-realce);
+box-shadow: 3px 2px 4px 0px var(--cor-secundaria);
 }
 
 .box-category.second {

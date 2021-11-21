@@ -4,3 +4,8 @@
   border-radius: 50%;
   margin-right: 20px;
 }
+
+.icon-logo:hover {
+  transform: scale(1.1);
+  transition: 1s cubic-bezier(0.18, 0.89, 0.32, 1.28) 0s;
+}

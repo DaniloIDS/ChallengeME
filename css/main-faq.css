@@ -13,5 +13,6 @@
   background-color: var(--cor-principal);
   padding: 15px;
   color: #FFF;
+  cursor: pointer;
 }
 

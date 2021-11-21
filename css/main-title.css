@@ -1,5 +1,5 @@
 .main-title {
-  font-size: 60px;
+  font-size: 36px;
   color: #FFF;
   font-family: "New Rocker";
   font-weight: normal;
@@ -9,8 +9,14 @@
 }
 
 .second {
-  background-color: var(--cor-destaque);
+  background-color: var(--cor-realce);
   color: #FFF;
   padding: 15px;
   border-radius: 8px;
+}
+
+.box_title {
+  font-size: 28px;
+  text-align: center;
+  font-weight: 500;
 }

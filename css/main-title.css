@@ -5,6 +5,7 @@
   font-weight: normal;
   letter-spacing: 6px;
   display: inline;
+  text-align: center;
 
 }
 
@@ -16,7 +17,7 @@
 }
 
 .box_title {
+  display: block;
   font-size: 28px;
-  text-align: center;
   font-weight: 500;
 }

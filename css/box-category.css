@@ -16,6 +16,10 @@ text-align: justify;
 line-height: 2;
 font-size: 24px;
 color: #FFF;
+transition-duration: 1.05s;
+
+text-shadow: 2px 4px 0px black;
+box-shadow: 3px 2px 4px 0px black;
 }
 
 .box-category.second {
@@ -27,5 +31,6 @@ background-color: var(--cor-principal);
 
 .box-category:hover {
   transform: scale(1.1);
+  transition-timing-function: ease-in-out;
 }
 
